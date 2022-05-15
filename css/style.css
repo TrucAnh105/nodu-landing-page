@@ -269,7 +269,7 @@ nav .container {
    border-radius: 8px;
    padding: 0 20px;
    margin-right: 20px;
-   min-width: 100px;
+   min-width: 150px;
  
   height: 50px;
 }
@@ -375,7 +375,6 @@ nav .container {
 
 .header-content .image .img-element {
   max-width: 500px;
-  align: right;
 }
 .typing {
   font-size: 18px;
@@ -1683,8 +1682,9 @@ justify-content: center;
   .grid-item {
     width: 100%;
   }
-  .logo {
-    visibility: hidden;
+  .image-logo {
+    width: auto;
+    height: 50px;
   }
   .grid-can-do { grid-template-columns: 1fr }
 }
