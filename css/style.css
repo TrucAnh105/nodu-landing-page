@@ -57,6 +57,9 @@ img {
   height: 100%;
   overflow: hidden;
 }
+.margin-top {
+  margin-top : 50px;
+}
 
 .grid-2 {
   display: grid;
