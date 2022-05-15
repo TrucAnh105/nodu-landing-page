@@ -21,7 +21,9 @@ input,
 textarea {
   font-family: "Inter", sans-serif;
 }
-
+p{
+  cursor: pointer;
+}
 html {
   scroll-behavior: smooth;
 }
